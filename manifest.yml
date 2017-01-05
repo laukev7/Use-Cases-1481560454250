@@ -10,5 +10,5 @@ applications:
   - Use Cases-cloudantNoSQLDB
   - Use Cases-iotf-service
   - Mobile Client Access-iwi117ga
-  - Context Mapping-0m
-  - Driver Behavior-05
+  - Context Mapping-use-cases
+  - Driver Behavior-use-cases
