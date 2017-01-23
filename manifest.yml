@@ -9,6 +9,5 @@ applications:
   services:
   - Use Cases-cloudantNoSQLDB
   - Use Cases-iotf-service
-  - Mobile Client Access-use-cases
   - Context Mapping-use-cases
   - Driver Behavior-use-cases
